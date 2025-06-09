@@ -15,7 +15,6 @@
 
 - 🤖 **Assistente Virtual Kátia** - IA especializada em costura
 - 📺 **Vídeo Aulas Interativas** - Integração com YouTube API
-- 🎨 **Design Moçambicano** - Inspirado em capulanas e cultura local
 - 📱 **Responsivo** - Mobile-first design
 - 🌙 **Modo Escuro/Claro** - Experiência personalizada
 - 🎭 **Animações Suaves** - Micro-interações envolventes
@@ -173,20 +172,20 @@ katia-costura-platform/
 
 ### 🗣️ **Multilíngue** (Planejado)
 - Português (padrão)
-- Changana
+- Changana (Pesnsando no assunto para melhor integracão total e completa)
 - Inglês
 
 ## 🔮 Roadmap
 
 ### 🎯 **Próximas Features**
-- [ ] 💳 **Integração M-Pesa** - Pagamentos móveis
+- [ ] 💳 **Integração M-Pesa, emola, mkesh** - Pagamentos móveis
 - [ ] 🗣️ **Chat em Changana** - Suporte multilíngue
-- [ ] 🛒 **Marketplace Capulanas** - E-commerce integrado
+- [ ] 🛒 **Marketplace Capulanas** - E-commerce integrado (em breve)
 - [ ] 📊 **Analytics Avançado** - Métricas de aprendizado
 - [ ] 🎮 **Gamificação** - Badges e conquistas
-- [ ] 📱 **App Mobile** - React Native
+- [ ] 📱 **App Mobile** - React Native (em breve)
 - [ ] 🤖 **IA Avançada** - Reconhecimento de padrões
-- [ ] 🎥 **Live Streaming** - Aulas ao vivo
+- [ ] 🎥 **Live Streaming** - Aulas ao vivo (em breve)
 
 ### 🚀 **Melhorias Técnicas**
 - [ ] 🧪 **Testes Automatizados** - Jest + Testing Library
@@ -217,12 +216,12 @@ chore: manutenção
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.(em construção)
 
 ## 👥 Equipe
 
 ### 🧠 **Criador**
-- **Zeus AI** - Arquitetura e desenvolvimento
+- **Equipe...** - Arquitetura e desenvolvimento
 
 ### 🎨 **Design**
 - Inspirado na rica cultura moçambicana
